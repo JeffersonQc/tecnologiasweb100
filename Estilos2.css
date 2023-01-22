@@ -1,0 +1,71 @@
+html {
+    background-color: rgba(138, 163, 247, 0.925);
+}
+
+h1 {
+    color: rgb(4, 4, 66);
+}
+p {
+    color: rgb(51, 51, 136);   
+}
+h2 {
+    color: rgb(24, 24, 116);   
+}
+ol {
+    color: rgb(40, 40, 189);   
+}
+ul {
+    color: rgb(31, 31, 92);   
+}
+
+table.Inicio {
+    background: rgb(181, 204, 235);
+    margin: 5px;
+    padding: 5px;
+    width: 5%; 
+    border: rgb(17, 0, 255) 4px solid;
+}
+table.Inicio h3 {
+    border-collapse: collapse;
+    margin: 10px;
+    padding: 15px;
+    width: 5%; 
+    border: rgb(181, 204, 235) 5px solid;
+}
+table.Inicio td {
+    border-collapse: collapse;
+    margin: 10px;
+    padding: 10px;
+    width: 10%; 
+    border: rgb(0, 47, 255) 3px solid;
+}
+table.Ventajas {
+    background: rgb(173, 172, 255);
+    margin: 5px;
+    padding: 5px;
+    width: 70%; 
+    border: rgb(36, 27, 112) 2px solid;
+}
+table.Ventajas td {
+    border-collapse: collapse;
+    margin: 5px;
+    padding: 10px;
+    width: 50%; 
+    border: rgb(7, 2, 82) 4px solid;
+}
+
+img.Java {
+    border-color: rgb(9, 11, 141) rgb(15, 4, 77) rgb(0, 9, 128);
+    border-width: 10px;
+    border-style: solid;
+}
+img.FotoJava {
+    border-color: rgb(30, 32, 151) rgb(49, 38, 110) rgb(54, 60, 143);
+    border-width: 10px;
+    border-style: solid;
+}
+img.LimiteJava {
+    border-color: rgb(3, 6, 172) rgb(23, 4, 94) rgba(2, 9, 112, 0.712);
+    border-width: 10px;
+    border-style: solid;
+}
